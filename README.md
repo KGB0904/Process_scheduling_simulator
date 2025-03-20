@@ -5,7 +5,7 @@ Operating System team project for the first semester of 2023
 ## 👫 Team
 
 -   [Jaewoo Gwak](https://github.com/jaewoogwak) (Project Leader)
--   [Gyungbo Kim](https://github.com/Koz-cec)
+-   [Gyungbo Kim](https://github.com/kgb0904)
 -   [Jia Bae](https://github.com/qowldk)
 -   [Sooin Hwang](https://github.com/s001n)
 
